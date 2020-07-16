@@ -11,5 +11,5 @@
   <br>
   🎶 <b>song of the week</b>: [dragonball durag](https://www.youtube.com/watch?v=ormQQG2UhtQ) - <i>thundercat</i>
   <br></br>
-  Want to know more about me? Check out my site!
+  want to know more about me? check out my site!
 </samp>
