@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**simcard0000/simcard0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙋🏽‍♀️ <samp> hello friends! </samp>
+<br></br>
+<samp>
+  software engineering student (2A) @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
+  <br>
+  software engineering intern @ [bluescape](https://www.bluescape.com/)
+  <br>
+  backend developer @ [hack the north](https://hackthenorth.com/)
+  <br></br>
+  📝 <b>quote of the week</b>: "strange women lying in ponds distributing swords is no basis for a system of government. supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony." - <i>monty python and the holy grail</i>
+  <br>
+  🎶 <b>song of the week</b>: [dragonball durag](https://www.youtube.com/watch?v=ormQQG2UhtQ) - <i>thundercat</i>
+  <br></br>
+  Want to know more about me? Check out my site!
+</samp>
