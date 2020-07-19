@@ -7,9 +7,10 @@
   <br>
   backend developer @ [hack the north](https://hackthenorth.com/)
   <br></br>
-  📝 <b>quote of the week</b>: "strange women lying in ponds distributing swords is no basis for a system of government. supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony." - <i>monty python and the holy grail</i>
+  📝 <b>quote of the week</b>: "Knowledge of the fact differs from knowledge of the reason for the fact." - <i>aristotle, I. 13, 78a.22 from posterior analytics</i>
   <br>
-  🎶 <b>song of the week</b>: [dragonball durag](https://www.youtube.com/watch?v=ormQQG2UhtQ) - <i>thundercat</i>
+  🎶 <b>song of the week</b>: [love is strange: digging club seoul version](https://www.youtube.com/watch?v=7NqFPVMTJjI) - <i>sumin feat. qim isle</i>
   <br></br>
   want to know more about me? check out my [site](https://www.simranthind.me)!
+  check out past quotes and songs of the week [here](https://github.com/simcard0000/simcard0000/blob/master/songsAndQuotes.md)!
 </samp>
