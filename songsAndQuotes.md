@@ -11,4 +11,10 @@ dragonball durag - <i>thundercat</i>
 "Knowledge of the fact differs from knowledge of the reason for the fact." - <i>aristotle, I. 13, 78a.22 from posterior analytics</i>
 <br>
 love is strange: digging club seoul version - <i>sumin feat. qim isle</i> 
+<br>
+<b>week ending August 1, 2020: </b>
+<br>
+"I don't know what's the matter with people: they don't learn by understanding; they learn by some other way — by rote or something. Their knowledge is so fragile!" - <i>richard feynman></i>
+<br>
+mayday (feat. joy) - <i>crush feat. joy</i> 
 </samp>
