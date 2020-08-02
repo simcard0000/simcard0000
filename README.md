@@ -1,7 +1,9 @@
-🙋🏽‍♀️ <samp> hello friends! </samp>
+<samp> 🙋🏽‍♀️ hello friends! </samp>
+<br></br>
+<samp> 🌼 I'm looking for January - April 2020 internship opportunities! Feel free to reach out to me! </samp>
 <br></br>
 <samp>
-  software engineering student (2A) @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
+  software engineering student (2A, rising sophomore) @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
   <br>
   software engineering intern @ [bluescape](https://www.bluescape.com/)
   <br>
