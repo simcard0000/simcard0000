@@ -9,9 +9,9 @@
   <br>
   backend developer @ [hack the north](https://hackthenorth.com/)
   <br></br>
-  📝 <b>quote of the week</b>: "I don't know what's the matter with people: they don't learn by understanding; they learn by some other way — by rote or something. Their knowledge is so fragile!"  - <i>richard feynman</i>
+  📝 <b>quote of the week</b>: "i want to see everything now. and while none of it will be me when it goes in, after a while it'll all gather together inside and it'll be me."  - <i>fahrenheit 451</i>
   <br>
-  🎶 <b>song of the week</b>: [mayday (feat. joy)](https://www.youtube.com/watch?v=29ycT6fA-Rs) - <i>crush feat. joy</i>
+  🎶 <b>song of the week</b>: [run](https://www.youtube.com/watch?v=K09_5IsgGe8) - <i>joji</i>
   <br></br>
   want to know more about me? check out my [site](https://www.simranthind.me)!
   check out past quotes and songs of the week [here](https://github.com/simcard0000/simcard0000/blob/master/songsAndQuotes.md)!
