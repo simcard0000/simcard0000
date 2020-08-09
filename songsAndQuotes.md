@@ -17,4 +17,10 @@ love is strange: digging club seoul version - <i>sumin feat. qim isle</i>
 "I don't know what's the matter with people: they don't learn by understanding; they learn by some other way — by rote or something. Their knowledge is so fragile!" - <i>richard feynman></i>
 <br>
 mayday (feat. joy) - <i>crush feat. joy</i> 
+<br>
+<b>week ending August 8, 2020: </b>
+<br>
+"i want to see everything now. and while none of it will be me when it goes in, after a while it'll all gather together inside and it'll be me." - <i>fahrenheit 451</i>
+<br>
+run - <i>joji</i>
 </samp>
