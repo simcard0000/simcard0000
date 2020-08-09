@@ -9,9 +9,9 @@
   <br>
   backend developer @ [hack the north](https://hackthenorth.com/)
   <br></br>
-  📝 <b>quote of the week</b>: "i want to see everything now. and while none of it will be me when it goes in, after a while it'll all gather together inside and it'll be me."  - <i>fahrenheit 451</i>
+  📝 <b>quote of the week</b>: "watch your mouth kid, or you'll find yourself respawning at home."  - <i>Miss Fortune, from League of Legends</i>
   <br>
-  🎶 <b>song of the week</b>: [run](https://www.youtube.com/watch?v=K09_5IsgGe8) - <i>joji</i>
+  🎶 <b>song of the week</b>: [everything now](https://www.youtube.com/watch?v=zC30BYR3CUk) - <i>arcade fire</i>
   <br></br>
   want to know more about me? check out my [site](https://www.simranthind.me)!
   check out past quotes and songs of the week [here](https://github.com/simcard0000/simcard0000/blob/master/songsAndQuotes.md)!
