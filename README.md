@@ -9,7 +9,7 @@
   <br>
   backend developer @ [hack the north](https://hackthenorth.com/)
   <br></br>
-  📝 <b>quote of the week</b>: "watch your mouth kid, or you'll find yourself respawning at home."  - <i>Miss Fortune, from League of Legends</i>
+  📝 <b>quote of the week</b>: "watch your mouth kid, or you'll find yourself respawning at home."  - <i>miss fortune, from league of legends</i>
   <br>
   🎶 <b>song of the week</b>: [everything now](https://www.youtube.com/watch?v=zC30BYR3CUk) - <i>arcade fire</i>
   <br></br>
