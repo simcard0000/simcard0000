@@ -23,4 +23,10 @@ mayday (feat. joy) - <i>crush feat. joy</i>
 "i want to see everything now. and while none of it will be me when it goes in, after a while it'll all gather together inside and it'll be me." - <i>fahrenheit 451</i>
 <br>
 run - <i>joji</i>
+<br>
+<b>week ending August 15, 2020: </b>
+<br>
+"watch your mouth kid, or you'll find yourself respawning at home." - <i>miss fortune, from league of legends</i>
+<br>
+everything now - <i>arcade fire</i>
 </samp>
