@@ -5,9 +5,9 @@
 <samp>
   software engineering student (2A, rising sophomore) @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
   <br>
-  software engineering intern @ [bluescape](https://www.bluescape.com/)
-  <br>
   backend developer @ [hack the north](https://hackthenorth.com/)
+  <br>
+  previously: software engineering intern @ [bluescape](https://www.bluescape.com/)
   <br></br>
   📝 <b>quote of the week</b>: "dream...not of what you are...but of what you want to be." - <i>warframe, the second dream</i>
   <br>
