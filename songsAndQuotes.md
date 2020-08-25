@@ -29,4 +29,10 @@ run - <i>joji</i>
 "watch your mouth kid, or you'll find yourself respawning at home." - <i>miss fortune, from league of legends</i>
 <br>
 everything now - <i>arcade fire</i>
+<br>
+<b>week ending August 22, 2020: </b>
+<br>
+"never, ever be afraid to make some noise and get in good trouble, necessary trouble." - <i>rep. john lewis</i>
+<br>
+  no halo - <i>brockhampton</i>
 </samp>
