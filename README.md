@@ -9,7 +9,7 @@
   <br>
   backend developer @ [hack the north](https://hackthenorth.com/)
   <br></br>
-  📝 <b>quote of the week</b>: "dream... not of what you are.... but of what you want to be" - <i>warframe, the second dream</i>
+  📝 <b>quote of the week</b>: "dream...not of what you are...but of what you want to be." - <i>warframe, the second dream</i>
   <br>
   🎶 <b>song of the week</b>: [feels like summer](https://www.youtube.com/watch?v=F1B9Fk_SgI0) - <i>childish gambino</i>
   <br></br>
