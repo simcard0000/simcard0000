@@ -34,5 +34,19 @@ everything now - <i>arcade fire</i>
 <br>
 "never, ever be afraid to make some noise and get in good trouble, necessary trouble." - <i>rep. john lewis</i>
 <br>
-  no halo - <i>brockhampton</i>
+no halo - <i>brockhampton</i>
+<br>
+<b>week ending August 29, 2020: </b>
+<br>
+ "dream...not of what you are...but of what you want to be." - <i>warframe, the second dream</i>
+<br>
+feels like summer - <i>childish gambino</i>
+<br>
+-> missed the week ending September 5, 2020!
+<br>
+  <b> week ending September 12, 2020: </b>
+<br>
+  "it was a dark and stormy night." - <i>a wrinkle in time, madeleine l'engle</i>
+<br>
+  i wanna be yours - <i>pink sweat$, crush</i>
 </samp>
