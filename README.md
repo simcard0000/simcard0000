@@ -10,6 +10,7 @@
   previously: software engineering intern @ [bluescape](https://www.bluescape.com/)
   <br></br>
   📝 <b>quote of the week</b>:"it was a dark and stormy night." - <i>a wrinkle in time, madeleine l'engle</i>
+  <br>
   🎶 <b>song of the week</b>: [i wanna be yours](https://www.youtube.com/watch?v=cuy_FfK0epQ) - <i>pink sweat$, crush</i>
   <br></br>
   want to know more about me? check out my [site](https://www.simranthind.me)!
