@@ -9,9 +9,8 @@
   <br>
   previously: software engineering intern @ [bluescape](https://www.bluescape.com/)
   <br></br>
-  📝 <b>quote of the week</b>: "dream...not of what you are...but of what you want to be." - <i>warframe, the second dream</i>
-  <br>
-  🎶 <b>song of the week</b>: [feels like summer](https://www.youtube.com/watch?v=F1B9Fk_SgI0) - <i>childish gambino</i>
+  📝 <b>quote of the week</b>:"it was a dark and stormy night." - <i>a wrinkle in time, madeleine l'engle</i>
+  🎶 <b>song of the week</b>: [i wanna be yours](https://www.youtube.com/watch?v=cuy_FfK0epQ) - <i>pink sweat$, crush/i>
   <br></br>
   want to know more about me? check out my [site](https://www.simranthind.me)!
   check out past quotes and songs of the week [here](https://github.com/simcard0000/simcard0000/blob/master/songsAndQuotes.md)!
