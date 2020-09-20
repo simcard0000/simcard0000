@@ -3,7 +3,7 @@
 <samp> 🌼 i'm looking for january - april 2021 and september - december 2021 internship opportunities! feel free to reach out to me! </samp>
 <br></br>
 <samp>
-  software engineering student (2A, rising sophomore) @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
+  software engineering student (2A, sophomore) @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
   <br>
   backend developer @ [hack the north](https://hackthenorth.com/)
   <br>
