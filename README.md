@@ -9,9 +9,9 @@
   <br>
   previously: software engineering intern @ [bluescape](https://www.bluescape.com/)
   <br></br>
-  📝 <b>quote of the week</b>:"it was a dark and stormy night." - <i>a wrinkle in time, madeleine l'engle</i>
+  📝 <b>quote of the week</b>: "we slept in what had once been the gymnasium." - <i>the handmaid's tale, margaret atwood</i>
   <br>
-  🎶 <b>song of the week</b>: [i wanna be yours](https://www.youtube.com/watch?v=cuy_FfK0epQ) - <i>pink sweat$, crush</i>
+  🎶 <b>song of the week</b>: [the baddest](https://www.youtube.com/watch?v=RkID8_gnTxw&vl=en) - <i>k/da ft. (g)i-dle, bea miller, wolftyla</i>
   <br></br>
   want to know more about me? check out my [site](https://www.simranthind.me)!
   check out past quotes and songs of the week [here](https://github.com/simcard0000/simcard0000/blob/master/songsAndQuotes.md)!
