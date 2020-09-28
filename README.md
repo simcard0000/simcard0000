@@ -9,7 +9,7 @@
   <br>
   previously: software engineering intern @ [bluescape](https://www.bluescape.com/)
   <br></br>
-  📝 <b>quote of the week</b>: "we all sprang from chaos, did we not? They offer us as suitable an explanation for the sheer improbability of life and consciousness as ever I have heard." - <i>hades, supergiant games</i>
+  📝 <b>quote of the week</b>: "we all sprang from chaos, did we not? they offer us as suitable an explanation for the sheer improbability of life and consciousness as ever i have heard." - <i>hades, supergiant games</i>
   <br>
   🎶 <b>song of the week</b>: [comme des garçons](https://www.youtube.com/watch?v=7LBqBspKGwE) - <i>jiwoo</i>
   <br></br>
