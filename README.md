@@ -9,9 +9,9 @@
   <br>
   previously: software engineering intern @ [bluescape](https://www.bluescape.com/)
   <br></br>
-  📝 <b>quote of the week</b>: "we slept in what had once been the gymnasium." - <i>the handmaid's tale, margaret atwood</i>
+  📝 <b>quote of the week</b>: "we all sprang from chaos, did we not? They offer us as suitable an explanation for the sheer improbability of life and consciousness as ever I have heard." - <i>hades, supergiant games</i>
   <br>
-  🎶 <b>song of the week</b>: [the baddest](https://www.youtube.com/watch?v=RkID8_gnTxw&vl=en) - <i>k/da ft. (g)i-dle, bea miller, wolftyla</i>
+  🎶 <b>song of the week</b>: [comme des garçons](https://www.youtube.com/watch?v=7LBqBspKGwE) - <i>jiwoo</i>
   <br></br>
   want to know more about me? check out my [site](https://www.simranthind.me)!
   check out past quotes and songs of the week [here](https://github.com/simcard0000/simcard0000/blob/master/songsAndQuotes.md)!
