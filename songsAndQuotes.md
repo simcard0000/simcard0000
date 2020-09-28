@@ -49,4 +49,10 @@ feels like summer - <i>childish gambino</i>
   "it was a dark and stormy night." - <i>a wrinkle in time, madeleine l'engle</i>
 <br>
   i wanna be yours - <i>pink sweat$, crush</i>
+ <br>
+  <b> week ending September 26 (yes i missed a week), 2020: </b>
+<br>
+  "we slept in what had once been the gymnasium." - <i>the handmaid's tale, margaret atwood</i>
+<br>
+   the baddest - <i>k/da ft. (g)i-dle, bea miller, wolftyla</i>
 </samp>
