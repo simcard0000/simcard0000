@@ -55,4 +55,15 @@ feels like summer - <i>childish gambino</i>
   "we slept in what had once been the gymnasium." - <i>the handmaid's tale, margaret atwood</i>
 <br>
    the baddest - <i>k/da ft. (g)i-dle, bea miller, wolftyla</i>
+ -> lost track of time and so had this for a while:
+ <br>
+  "we all sprang from chaos, did we not? they offer us as suitable an explanation for the sheer improbability of life and consciousness as ever i have heard." - <i>hades, supergiant games</i>
+<br>
+   comme des garcons - <i>jiwoo</i>
+<br>
+ <b> week ending October 24, 2020: </b>
+ <br>
+  "without leaps of imagination, or dreaming, we lose the excitement of possibilities. dreaming, after all, is a form of planning." -<i> gloria steinem</i>
+ <br>
+ let me down slowly - <i>alec benjamin</i> 
 </samp>
