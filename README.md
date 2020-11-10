@@ -9,9 +9,9 @@
   <br>
   previously: software engineering intern @ [bluescape](https://www.bluescape.com/)
   <br></br>
-  📝 <b>quote of the week</b>: "without leaps of imagination, or dreaming, we lose the excitement of possibilities. dreaming, after all, is a form of planning." - <i>gloria steinem</i>
+  📝 <b>quote of the week</b>: "honestly, if you're given the choice between armageddon or tea, you don't say 'what kind of tea?'" - <i>neil gaiman</i>
   <br>
-  🎶 <b>song of the week</b>: [let me down slowly](https://www.youtube.com/watch?v=50VNCymT-Cs) - <i>alec benjamin</i>
+  🎶 <b>song of the week</b>: [little dark age](https://www.youtube.com/watch?v=rtL5oMyBHPs) - <i>mgmt</i>
   <br></br>
   want to know more about me? check out my [site](https://www.simranthind.me)!
   check out past quotes and songs of the week [here](https://github.com/simcard0000/simcard0000/blob/master/songsAndQuotes.md)!
