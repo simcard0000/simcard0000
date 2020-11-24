@@ -66,4 +66,10 @@ feels like summer - <i>childish gambino</i>
   "without leaps of imagination, or dreaming, we lose the excitement of possibilities. dreaming, after all, is a form of planning." -<i> gloria steinem</i>
  <br>
  let me down slowly - <i>alec benjamin</i> 
+<br>
+ <b> week ending November 21, 2020: </b>
+ <br>
+ "honestly, if you're given the choice between armageddon or tea, you don't say 'what kind of tea?'" - <i>neil gaiman</i>
+ <br>
+ little dark age - <i>mgmt</i> 
 </samp>
