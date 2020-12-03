@@ -9,10 +9,12 @@
   <br>
   previously: software engineering intern @ [bluescape](https://www.bluescape.com/)
   <br></br>
-  📝 <b>quote of the week</b>: "the only legitimate use of a computer is to play games." - <i>eugene jarvis</i>
+  📝 <b>quote of the week</b>: "around computers it is difficult to find the correct unit of time to measure progress. some cathedrals took a century to complete. can you imagine the grandeur and scope of a program that would take as long?" - <i>sigplan (1982)</i>
   <br>
-  🎶 <b>song of the week</b>: [bones](https://www.youtube.com/watch?v=C2qpuKnK6gI) - <i>crumb</i>
+  🎶 <b>song of the week</b>: [through and through](https://www.youtube.com/watch?v=R1S-HJb58DQ) - <i>khai dreams</i>
   <br></br>
   want to know more about me? check out my [site](https://www.simranthind.me)!
   check out past quotes [here](https://github.com/simcard0000/simcard0000/blob/master/songsAndQuotes.md) and songs of the week in this [playlist](https://open.spotify.com/playlist/55vUoIgWhRC1KtW3PY1KeG?si=xML6sYCyTRaQ7cRGoIBgFg)!
 </samp>
+
+[![Simran's Github Stats](https://github-readme-stats.vercel.app/api?username=simcard0000&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
