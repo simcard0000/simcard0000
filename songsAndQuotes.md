@@ -71,5 +71,11 @@ feels like summer - <i>childish gambino</i>
  <br>
  "honestly, if you're given the choice between armageddon or tea, you don't say 'what kind of tea?'" - <i>neil gaiman</i>
  <br>
- little dark age - <i>mgmt</i> 
+ little dark age - <i>mgmt</i>
+ <br>
+ <b> (cutting it late because exams) week ending December 5, 2020: </b>
+ <br>
+ "the only legitimate use of a computer is to play games." - <i>eugene jarvis</i>
+ <br>
+ bones - <i>crumb</i>
 </samp>
