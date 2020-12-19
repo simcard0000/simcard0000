@@ -78,4 +78,10 @@ feels like summer - <i>childish gambino</i>
  "the only legitimate use of a computer is to play games." - <i>eugene jarvis</i>
  <br>
  bones - <i>crumb</i>
+ <br>
+ <b> week ending December 26, 2020: </b>
+ <br>
+ "around computers it is difficult to find the correct unit of time to measure progress. some cathedrals took a century to complete. can you imagine the grandeur and scope of a program that would take as long?" - <i>sigplan (1982)</i>
+ <br>
+ through and through - <i>khai dreams</i>
 </samp>
