@@ -84,4 +84,10 @@ feels like summer - <i>childish gambino</i>
  "around computers it is difficult to find the correct unit of time to measure progress. some cathedrals took a century to complete. can you imagine the grandeur and scope of a program that would take as long?" - <i>sigplan (1982)</i>
  <br>
  through and through - <i>khai dreams</i>
+ <br>
+ <b> end of 2020 </b>
+ <br>
+ "<i>is studying computer science the best way to prepare to be a programmer?</i> no. the best way to prepare is to write programs, and to study great programs that other people have written. in my case, i went to the garbage cans at the computer science center and i fished out listings of their operating system. you got to be willing to read other people's code, then write your own, then have other people review your code. you've got to want to be in this incredible feedback loop where you get the world-class people to tell you what you're doing wrong." - <i>bill gates</i>
+ <br>
+ decks dark - <i>radiohead</i>
 </samp>
