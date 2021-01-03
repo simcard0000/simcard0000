@@ -9,9 +9,9 @@
   <br>
   previously: software engineering intern @ [bluescape](https://www.bluescape.com/)
   <br></br>
-  📝 <b>quote of the week</b>: "<i>is studying computer science the best way to prepare to be a programmer?</i> no. the best way to prepare is to write programs, and to study great programs that other people have written. in my case, i went to the garbage cans at the computer science center and i fished out listings of their operating system. you got to be willing to read other people's code, then write your own, then have other people review your code. you've got to want to be in this incredible feedback loop where you get the world-class people to tell you what you're doing wrong." - <i>bill gates</i>
+  📝 <b>quote of the week</b>: "i think computer viruses should count as life ... i think it says something about human nature that the only form of life we have created so far is purely destructive. we've created life in our own image." - <i>stephen hawking</i>
   <br>
-  🎶 <b>song of the week</b>: [decks dark](https://www.youtube.com/watch?v=Del3C2W63Pk) - <i>radiohead</i>
+  🎶 <b>song of the week</b>: [chamber of reflection](https://www.youtube.com/watch?v=pQsF3pzOc54) - <i>mac demarco</i>
   <br></br>
   want to know more about me? check out my [site](https://www.simranthind.me)!
   check out past quotes [here](https://github.com/simcard0000/simcard0000/blob/master/songsAndQuotes.md) and songs of the week in this [playlist](https://open.spotify.com/playlist/55vUoIgWhRC1KtW3PY1KeG?si=xML6sYCyTRaQ7cRGoIBgFg)!
