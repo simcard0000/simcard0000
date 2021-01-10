@@ -7,7 +7,7 @@
   <br>
   backend developer @ [hack the north](https://hackthenorth.com/)
   <br>
-  previously: software engineering intern @ [bluescape](https://www.bluescape.com/)
+  x2 software engineering intern @ [bluescape](https://www.bluescape.com/)
   <br></br>
   📝 <b>quote of the week</b>: "i think computer viruses should count as life ... i think it says something about human nature that the only form of life we have created so far is purely destructive. we've created life in our own image." - <i>stephen hawking</i>
   <br>
