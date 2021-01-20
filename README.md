@@ -8,10 +8,12 @@
   backend developer @ [hack the north](https://hackthenorth.com/)
   <br>
   x2 software engineering intern @ [bluescape](https://www.bluescape.com/)
-  <br></br>
-  📝 <b>quote of the week</b>: "i think computer viruses should count as life ... i think it says something about human nature that the only form of life we have created so far is purely destructive. we've created life in our own image." - <i>stephen hawking</i>
   <br>
-  🎶 <b>song of the week</b>: [chamber of reflection](https://www.youtube.com/watch?v=pQsF3pzOc54) - <i>mac demarco</i>
+  technical project manager @ [enghack](https://enghack.com/)
+  <br></br>
+  📝 <b>quote of the week</b>: "prolific programmers contribute to certain disaster." - <i>niklaus wirth</i>
+  <br>
+  🎶 <b>song of the week</b>: [mist](https://www.youtube.com/watch?v=A-eT-KpT1vQ) - <i>protest the hero</i>
   <br></br>
   want to know more about me? check out my [site](https://www.simranthind.me)!
   check out past quotes [here](https://github.com/simcard0000/simcard0000/blob/master/songsAndQuotes.md) and songs of the week in this [playlist](https://open.spotify.com/playlist/55vUoIgWhRC1KtW3PY1KeG?si=xML6sYCyTRaQ7cRGoIBgFg)!
