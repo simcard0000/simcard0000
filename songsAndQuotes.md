@@ -90,4 +90,10 @@ feels like summer - <i>childish gambino</i>
  "<i>is studying computer science the best way to prepare to be a programmer?</i> no. the best way to prepare is to write programs, and to study great programs that other people have written. in my case, i went to the garbage cans at the computer science center and i fished out listings of their operating system. you got to be willing to read other people's code, then write your own, then have other people review your code. you've got to want to be in this incredible feedback loop where you get the world-class people to tell you what you're doing wrong." - <i>bill gates</i>
  <br>
  decks dark - <i>radiohead</i>
+ <br>
+ <b> at Jan 20, 2021 </b>
+ <br>
+ "i think computer viruses should count as life ... i think it says something about human nature that the only form of life we have created so far is purely destructive. we've created life in our own image." - <i>stephen hawking</i>
+ <br>
+ chamber of reflection -<i>mac demarco</i>
 </samp>
