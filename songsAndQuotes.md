@@ -96,4 +96,10 @@ feels like summer - <i>childish gambino</i>
  "i think computer viruses should count as life ... i think it says something about human nature that the only form of life we have created so far is purely destructive. we've created life in our own image." - <i>stephen hawking</i>
  <br>
  chamber of reflection -<i>mac demarco</i>
+ <br>
+<b> at Feb 7, 2021 </b>
+<br>
+"prolific programmers contribute to certain disaster." - <i>niklaus wirth</i>
+<br>
+mist - <i> protest the hero </i>
 </samp>
