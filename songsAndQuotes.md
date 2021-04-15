@@ -102,4 +102,10 @@ feels like summer - <i>childish gambino</i>
 "prolific programmers contribute to certain disaster." - <i>niklaus wirth</i>
 <br>
 mist - <i> protest the hero </i>
+ <br>
+<b> who knows when this period ended: Apr 15, 2021 </b>
+<br>
+"all parts should go together without forcing. you must remember that the parts you are reassembling were disassembled by you. therefore, if you can’t get them together again, there must be a reason. by all means, do not use a hammer." - <i>ibm manual, 1925</i>
+<br>
+everytime - <i>boy pablo</i>
 </samp>
