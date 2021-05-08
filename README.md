@@ -7,6 +7,8 @@
   <br>
   technical project manager @ [enghack](https://enghack.com/)
   <br>
+  1.22 release shadow @ [kubernetes](https://kubernetes.io/)
+  <br>
   <b>previously:</b>
   <br>
   backend developer @ [hack the north](https://hackthenorth.com/)
