@@ -3,21 +3,24 @@
 <samp> 🌼 i'm looking for september - december 2021 internship opportunities! feel free to reach out to me! </samp>
 <br></br>
 <samp>
-  software engineering student (sophomore) @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
+  software engineering student @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
   <br>
-  technical project manager @ [enghack](https://enghack.com/)
-  <br>
-  1.22 release shadow @ [kubernetes](https://kubernetes.io/)
+  developer @ [nuclear promise x](https://www.npxinnovation.ca/)
   <br>
   <b>previously:</b>
   <br>
   backend developer @ [hack the north](https://hackthenorth.com/)
   <br>
   x2 software engineering intern @ [bluescape](https://www.bluescape.com/)
-  <br></br>
-  📝 <b>quote of the week</b>: "books are not something that you just read words in. they're also a tool to adjust your senses." - <i>shogo makishima, psycho-pass</i>
   <br>
-  🎶 <b>song of the week</b>: [girl like you](https://www.youtube.com/watch?v=Fg7r4kQUbPw) - <i>toro y moi</i>
+  technical project manager @ [enghack](https://enghack.com/)
+  <br>
+  1.22 release shadow @ [kubernetes](https://kubernetes.io/)
+  <br>
+  </br>
+  📝 <b>quote of the week</b>: "my heart broke. i moved out of home and into the city and i made new friends and i started to realize that no one is just good or bad, that everyone is both. i started to discover in a profound, scary, blood aching way who i was when i was alone, what i did when i did things only for myself." - <i>lorde</i>
+  <br>
+  🎶 <b>song of the week</b>: [kids in america - demo - 1991](https://www.youtube.com/watch?v=ZRuyTTFJEjQ) - <i>foo fighters</i>
   <br></br>
   want to know more about me? check out my [site](https://www.simranthind.me)!
   check out past quotes [here](https://github.com/simcard0000/simcard0000/blob/master/songsAndQuotes.md) and songs of the week in this [playlist](https://open.spotify.com/playlist/55vUoIgWhRC1KtW3PY1KeG?si=xML6sYCyTRaQ7cRGoIBgFg)!
