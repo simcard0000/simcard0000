@@ -1,6 +1,6 @@
 <samp> 🙋🏽‍♀️ hello friends! </samp>
 <br></br>
-<samp> 🌼 i'm looking for september - december 2021 internship opportunities! feel free to reach out to me! </samp>
+<samp> 🌼 i'm looking for january - december 2022 internship opportunities! feel free to reach out to me! </samp>
 <br></br>
 <samp>
   software engineering student @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
