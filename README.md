@@ -5,9 +5,9 @@
 <samp>
   software engineering student @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
   <br>
-  developer @ [nuclear promise x](https://www.npxinnovation.ca/)
-  <br>
   <b>previously:</b>
+  <br>
+  developer @ [nuclear promise x](https://www.npxinnovation.ca/)
   <br>
   backend developer @ [hack the north](https://hackthenorth.com/)
   <br>
@@ -18,12 +18,10 @@
   1.22 release shadow @ [kubernetes](https://kubernetes.io/)
   <br>
   </br>
-  📝 <b>quote of the week</b>: "my heart broke. i moved out of home and into the city and i made new friends and i started to realize that no one is just good or bad, that everyone is both. i started to discover in a profound, scary, blood aching way who i was when i was alone, what i did when i did things only for myself." - <i>lorde</i>
+  📝 <b>quote of the week</b>: "part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest." - <i>isaac asimov</i>
   <br>
-  🎶 <b>song of the week</b>: [kids in america - demo - 1991](https://www.youtube.com/watch?v=ZRuyTTFJEjQ) - <i>foo fighters</i>
+  🎶 <b>song of the week</b>: [jekyll](https://www.youtube.com/watch?v=FpoX3HJPZd8) - <i>exo</i>
   <br></br>
-  want to know more about me? check out my [site](https://www.simranthind.me)!
-  check out past quotes [here](https://github.com/simcard0000/simcard0000/blob/master/songsAndQuotes.md) and songs of the week in this [playlist](https://open.spotify.com/playlist/55vUoIgWhRC1KtW3PY1KeG?si=xML6sYCyTRaQ7cRGoIBgFg)!
 </samp>
 
 [![Simran's Github Stats](https://github-readme-stats.vercel.app/api?username=simcard0000&count_private=true&show_icons=true&theme=react&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
