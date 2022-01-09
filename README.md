@@ -23,4 +23,4 @@
   🎶 <b>song of the week</b>: [jekyll](https://www.youtube.com/watch?v=FpoX3HJPZd8) - <i>exo</i>
   <br></br>
 </samp>
-[![Simran's Github Stats](https://github-readme-stats.vercel.app/api?username=simcard0000&count_private=true&show_icons=true&theme=react&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Simran's Github Stats](https://github-readme-stats.vercel.app/api?username=simcard0000&count_private=true&show_icons=true&bg_color=-30,e83f60,f27168,f7a276,f7d256,f8d5ae&include_all_commits=true&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
