@@ -114,4 +114,16 @@ everytime - <i>boy pablo</i>
 "books are not something that you just read words in. they're also a tool to adjust your senses." - <i>shogo makishima, psycho-pass</i>
 <br>
 girl like you - <i>toro y moi</i>
+<br>
+<b> sometime before Dec 2021 </b>
+<br>
+"my heart broke. i moved out of home and into the city and i made new friends and i started to realize that no one is just good or bad, that everyone is both. i started to discover in a profound, scary, blood aching way who i was when i was alone, what i did when i did things only for myself." - <i>lorde</i>
+<br>
+kids in america - demo - 1991 - <i>foo fighters</i>
+<br>
+<b> ended on Mar 29 2022 </b>
+<br>
+"part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest." - <i>isaac asimov</i>
+<br>
+jekyll - <i>exo</i>
 </samp>
