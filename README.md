@@ -18,9 +18,9 @@
   1.22 release shadow @ [kubernetes](https://kubernetes.io/)
   <br>
   </br>
-  📝 <b>quote of the week</b>: "part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest." - <i>isaac asimov</i>
+  📝 <b>quote of the week</b>: "computer scientists have so far worked on developing powerful programming languages that make it possible to solve the technical problems of computation. little effort has gone toward devising the languages of interaction." - <i>donald norman, the design of everyday things Ch. 6, 1988</i>
   <br>
-  🎶 <b>song of the week</b>: [jekyll](https://www.youtube.com/watch?v=FpoX3HJPZd8) - <i>exo</i>
+  🎶 <b>song of the week</b>: [the number of the beast](https://www.youtube.com/watch?v=WxnN05vOuSM) - <i>iron maiden</i>
   <br></br>
 </samp>
 [![Simran's Github Stats](https://github-readme-stats.vercel.app/api?username=simcard0000&count_private=true&show_icons=true&bg_color=-30,e83f60,f27168,f7a276,f7d256,f8d5ae&include_all_commits=true&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
