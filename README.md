@@ -17,7 +17,9 @@
   <br>
   1.22 release shadow @ [kubernetes](https://kubernetes.io/)
   <br>
-  </br>
+  <br>
+  ![stars divider](https://github.com/simcard0000/simcard0000/blob/master/dividerstars.gif)
+  <br>
   📝 <b>quote of the week</b>: "computer scientists have so far worked on developing powerful programming languages that make it possible to solve the technical problems of computation. little effort has gone toward devising the languages of interaction." - <i>donald norman, the design of everyday things Ch. 6, 1988</i>
   <br>
   🎶 <b>song of the week</b>: [the number of the beast](https://www.youtube.com/watch?v=WxnN05vOuSM) - <i>iron maiden</i>
