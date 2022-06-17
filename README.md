@@ -1,9 +1,11 @@
 <samp> 🙋🏽‍♀️ hello friends! </samp>
 <br></br>
-<samp> 🌼 i'm looking for september - december 2022 internship opportunities! feel free to reach out to me! </samp>
+<samp> 🌼 i'm looking for may - august 2023 internship opportunities! feel free to reach out to me! </samp>
 <br></br>
 <samp>
   software engineering student @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
+  <br>
+  incoming developer advocate intern @ [mattermost](https://mattermost.com/)
   <br>
   <b>previously:</b>
   <br>
