@@ -2,6 +2,8 @@
 <br></br>
 <samp> 🌼 i'm looking for may - august 2023 internship opportunities! feel free to reach out to me! </samp>
 <br></br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">![linux directory button](https://github.com/simcard0000/simcard0000/blob/master/linux-directory.gif)</a>![enhanced HTML](https://github.com/simcard0000/simcard0000/blob/master/gethtmlnow.gif)![tested on firefox](https://github.com/simcard0000/simcard0000/blob/master/firefox4.gif)![finger of god](https://github.com/simcard0000/simcard0000/blob/master/fingerofgod.gif)![any browser](https://github.com/simcard0000/simcard0000/blob/master/anybrowser2.gif)
+<br>
 <samp>
   software engineering student @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
   <br>
