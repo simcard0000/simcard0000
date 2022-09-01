@@ -7,7 +7,7 @@
 <samp>
   software engineering student @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
   <br>
-  incoming developer advocate intern @ [mattermost](https://mattermost.com/)
+  developer advocate intern @ [mattermost](https://mattermost.com/)
   <br>
   <b>previously:</b>
   <br>
@@ -24,9 +24,9 @@
   <br>
   ![stars divider](https://github.com/simcard0000/simcard0000/blob/master/dividerstars.gif)
   <br>
-  📝 <b>quote of the week</b>: "computer scientists have so far worked on developing powerful programming languages that make it possible to solve the technical problems of computation. little effort has gone toward devising the languages of interaction." - <i>donald norman, the design of everyday things Ch. 6, 1988</i>
+  📝 <b>quote of the week</b>: "computers have always been a simulation of weaving; threads of ones and zeros riding the carpets and simulating silk screens in the perpetual motions of cyberspace." - <i>sadie plant</i>
   <br>
-  🎶 <b>song of the week</b>: [the number of the beast](https://www.youtube.com/watch?v=WxnN05vOuSM) - <i>iron maiden</i>
+  🎶 <b>song of the week</b>: [evrwndr](https://www.youtube.com/watch?v=OWd9usOxNrQ) - <i>kid bloom</i>
   <br></br>
 </samp>
 [![Simran's Github Stats](https://github-readme-stats.vercel.app/api?username=simcard0000&count_private=true&show_icons=true&bg_color=-30,e83f60,f27168,f7a276,f7d256,f8d5ae&include_all_commits=true&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
