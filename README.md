@@ -11,7 +11,7 @@
   <br>
   developer advocate intern @ [mattermost](https://mattermost.com/)
   <br>
-  developer @ [nuclear promise x](https://www.npxinnovation.ca/)
+  developer intern @ [nuclear promise x](https://www.npxinnovation.ca/)
   <br>
   backend developer @ [hack the north](https://hackthenorth.com/)
   <br>
