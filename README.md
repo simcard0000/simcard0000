@@ -7,9 +7,9 @@
 <samp>
   software engineering student @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
   <br>
-  developer advocate intern @ [mattermost](https://mattermost.com/)
-  <br>
   <b>previously:</b>
+  <br>
+  developer advocate intern @ [mattermost](https://mattermost.com/)
   <br>
   developer @ [nuclear promise x](https://www.npxinnovation.ca/)
   <br>
