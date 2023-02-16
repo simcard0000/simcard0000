@@ -29,4 +29,5 @@
   🎶 <b>song of the week</b>: [evrwndr](https://www.youtube.com/watch?v=OWd9usOxNrQ) - <i>kid bloom</i>
   <br></br>
 </samp>
-[![Simran's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=simcard0000&count_private=true&show_icons=true&bg_color=-30,e83f60,f27168,f7a276,f7d256,f8d5ae&include_all_commits=true&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Simran's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=simcard0000&count_private=true&show_icons=true&bg_color=-30,e83f60,f27168,f7a276,f7d256,f8d5ae&include_all_commits=true&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats) [<img src="https://github.com/simcard0000/simcard0000/blob/master/picrew-alli.png" width=90 height=200>](https://picrew.me/image_maker/1553437)
+
