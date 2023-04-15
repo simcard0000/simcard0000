@@ -24,9 +24,9 @@
   <br>
   ![stars divider](https://github.com/simcard0000/simcard0000/blob/master/dividerstars.gif)
   <br>
-  📝 <b>quote of the week</b>: "computers have always been a simulation of weaving; threads of ones and zeros riding the carpets and simulating silk screens in the perpetual motions of cyberspace." - <i>sadie plant</i>
+  📝 <b>current quote</b>: "coding isn’t something that just happens behind your screen. it can be a holistic practice surrounding the computer, the programmer, the relationship they have with each other, and the environments they create together." - <i>melanie hoff</i>
   <br>
-  🎶 <b>song of the week</b>: [evrwndr](https://www.youtube.com/watch?v=OWd9usOxNrQ) - <i>kid bloom</i>
+  🎶 <b>current song</b>: [de plata](https://www.youtube.com/watch?v=NfDEEyg3AdA) - <i>rosalía</i>
   <br></br>
 </samp>
 [![Simran's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=simcard0000&count_private=true&show_icons=true&bg_color=-30,e83f60,f27168,f7a276,f7d256,f8d5ae&include_all_commits=true&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats) [<img src="https://github.com/simcard0000/simcard0000/blob/master/picrew-alli.png" width=90 height=200>](https://picrew.me/image_maker/1553437)
