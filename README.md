@@ -7,9 +7,9 @@
 <samp>
   software engineering student @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
   <br>
-  application engineer intern @ [untether ai](https://www.untether.ai/)
-  <br>
   <b>previously:</b>
+  <br>
+  technical marketing - application engineer intern @ [untether ai](https://www.untether.ai/)
   <br>
   developer advocate intern @ [mattermost](https://mattermost.com/)
   <br>
