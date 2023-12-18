@@ -30,10 +30,8 @@
   <br>
   🎶 <b>current song</b>: [moonlight](https://www.youtube.com/watch?v=mZz4MP_u02I) - <i>arin ray</i>
   <br></br>
-</samp>
-<!-- // Begin Current Moon Phase HTML (c) MoonConnection.com // (third image) -->
+</samp> <!-- // Begin Current Moon Phase HTML (c) MoonConnection.com // (third image) -->
 [![Simran's Github Stats](https://github-readme-stats-nu-bice-96.vercel.app/api?username=simcard0000&count_private=true&show_icons=true&bg_color=-30,e83f60,f27168,f7a276,f7d256,f8d5ae&include_all_commits=true&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats) [<img src="https://github.com/simcard0000/simcard0000/blob/master/picrew-alli.png" width=90 height=200>](https://picrew.me/image_maker/1553437) [<img src="https://www.moonmodule.com/cs/dm/hn.gif" width=212 height=136>](https://www.moonconnection.com)
 <br>
-🌗→ [moon phases](https://www.moonconnection.com/moon_phases.phtml)
-<!-- // end moon phase HTML // -->
+<samp>🌗→ [moon phases](https://www.moonconnection.com/moon_phases.phtml)</samp> <!-- // end moon phase HTML // -->
 
