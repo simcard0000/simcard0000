@@ -2,6 +2,8 @@
 <br></br>
 <samp> 🌼 i'm looking for 2024 internship opportunities! feel free to reach out to me! </samp>
 <br></br>
+<samp>💫 Coming soon: available for contract work (moodboarding/visual identity/UX-UI design/web dev/technical writing)</samp>
+<br></br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">![linux directory button](https://github.com/simcard0000/simcard0000/blob/master/linux-directory.gif)</a>![enhanced HTML](https://github.com/simcard0000/simcard0000/blob/master/gethtmlnow.gif)![tested on firefox](https://github.com/simcard0000/simcard0000/blob/master/firefox4.gif)![finger of god](https://github.com/simcard0000/simcard0000/blob/master/fingerofgod.gif)![any browser](https://github.com/simcard0000/simcard0000/blob/master/anybrowser2.gif)
 <br>
 <samp>
