@@ -1,6 +1,4 @@
-<samp> 🙋🏽‍♀️ hello friends! </samp>
-<br></br>
-<samp> 🌼 i'm looking for 2024 internship opportunities! feel free to reach out to me! </samp>
+<samp> 🌼 hello friends! i'm looking for 2025 new grad roles - feel free to reach out to me!</samp>
 <br></br>
 <samp>💫 Coming soon: available for contract work (moodboarding/visual identity/UX-UI design/web dev/technical writing)</samp>
 <br></br>
@@ -30,7 +28,7 @@
   <br>
   📝 <b>current quote</b>: "coding isn’t something that just happens behind your screen. it can be a holistic practice surrounding the computer, the programmer, the relationship they have with each other, and the environments they create together." - <i>melanie hoff</i>
   <br>
-  🎶 <b>current song</b>: [moonlight](https://www.youtube.com/watch?v=mZz4MP_u02I) - <i>arin ray</i>
+  🎶 <b>current song</b>: [scientists & engineers ft. future, andre 3000, eryn allen kane](https://www.youtube.com/watch?v=kU0SmxKucCw) - <i>killer mike</i>
   <br></br>
 </samp> <!-- // Begin Current Moon Phase HTML (c) MoonConnection.com // (third image) -->
 [![Simran's Github Stats](https://github-readme-stats-nu-bice-96.vercel.app/api?username=simcard0000&count_private=true&show_icons=true&bg_color=-30,e83f60,f27168,f7a276,f7d256,f8d5ae&include_all_commits=true&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats) [<img src="https://github.com/simcard0000/simcard0000/blob/master/picrew-alli.png" width=90 height=200>](https://picrew.me/image_maker/1553437) [<img src="https://www.moonmodule.com/cs/dm/hn.gif" width=212 height=136>](https://www.moonconnection.com)
