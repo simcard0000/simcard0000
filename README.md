@@ -1,12 +1,14 @@
 <samp> 🌼 hello friends! i'm looking for 2025 new grad roles - feel free to reach out to me!</samp>
-<br></br>
+<br>
 <samp>💫 Coming soon: available for contract work (moodboarding/visual identity/UX-UI design/web dev/technical writing)</samp>
 <br></br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">![linux directory button](https://github.com/simcard0000/simcard0000/blob/master/linux-directory.gif)</a>![enhanced HTML](https://github.com/simcard0000/simcard0000/blob/master/gethtmlnow.gif)![tested on firefox](https://github.com/simcard0000/simcard0000/blob/master/firefox4.gif)![finger of god](https://github.com/simcard0000/simcard0000/blob/master/fingerofgod.gif)![any browser](https://github.com/simcard0000/simcard0000/blob/master/anybrowser2.gif)
 <br>
 <samp>
-  software engineering student @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
+  demo solutions engineer intern @ [replicant](https://www.replicant.com/)
   <br>
+  software engineering student @ the [university of waterloo](https://uwaterloo.ca/future-students/programs/software-engineering)
+  <br></br>
   <b>previously:</b>
   <br>
   technical marketing - application engineer intern @ [untether ai](https://www.untether.ai/)
@@ -26,7 +28,7 @@
   <br>
   ![stars divider](https://github.com/simcard0000/simcard0000/blob/master/dividerstars.gif)
   <br>
-  📝 <b>current quote</b>: "coding isn’t something that just happens behind your screen. it can be a holistic practice surrounding the computer, the programmer, the relationship they have with each other, and the environments they create together." - <i>melanie hoff</i>
+  📝 <b>current quote</b>: "computer scientists have so far worked on developing powerful programming languages that make it possible to solve the technical problems of computation. little effort has gone toward devising the languages of interaction." - <i>donald norman, the design of everyday things ch. 6, 1988</i> 
   <br>
   🎶 <b>current song</b>: [scientists & engineers ft. future, andre 3000, eryn allen kane](https://www.youtube.com/watch?v=kU0SmxKucCw) - <i>killer mike</i>
   <br></br>
